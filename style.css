@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(189, 225, 230);
+}
+
+h1, h2, li {
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1, h2 {
+color: rgb(103, 124, 117);
+}
+
+.result {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(127, 100, 129);
+}
